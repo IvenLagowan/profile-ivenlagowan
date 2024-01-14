@@ -10,10 +10,10 @@
 
 :root{
     --bg-color:#243241;
-    --gradient-white-bg:linear-gradient(0deg,#e7c6c6 0%,#dee7e2 51%,#ffffff 100%);
-    --gradient-color-bg:linear-gradient(180deg,rgb(238, 238, 238)0%,
-                                                rgb(42, 4, 228)51%,
-                                                rgb(202, 10, 10)100%);
+    --gradient-white-bg:linear-gradient(0deg,#fff, 0%,#8e9691 51%,#e0e0e0 100%);
+    --gradient-color-bg:linear-gradient(180deg,rgb(199, 231, 18)0%,
+                                                rgb(203, 20, 164)51%,
+                                                rgb(204, 14, 109)100%);
     --main-color:#00bce6;
     --font-color:#b7736c;
     --hover-box-shadow:rgba(0,0,0,0.19)0px 10px 20px,
